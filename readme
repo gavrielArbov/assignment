@@ -6,3 +6,7 @@ py app.py
 
 to run the tests:
 pytest tests.py
+
+
+git source:
+https://github.com/gavrielArbov/assignment
