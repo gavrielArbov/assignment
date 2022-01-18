@@ -1,0 +1,8 @@
+to initialize virtual environment run command:
+$ powershell .\init_venv.ps1
+
+to run the program:
+py app.py
+
+to run the tests:
+pytest tests.py
